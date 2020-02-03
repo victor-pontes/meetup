@@ -1,2 +1,2 @@
 # meetups
-Repositório com dados do Meetups
+Repositório com dados do Meetup
